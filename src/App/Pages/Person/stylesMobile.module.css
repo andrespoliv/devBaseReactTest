@@ -1,0 +1,30 @@
+.userContainer{
+  height: 20vh;
+  display:flex;
+  justify-content: left;
+  align-items: center;
+}
+
+.avatar{
+  width: 25vw;
+  height: 16vh;
+  border-radius: 50%;
+}
+
+.nameAndLocationContainer{
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  align-items: center;
+  margin-left: 3vw;
+
+}
+
+.nameAndLocationContainer p{
+  margin: 0;
+  text-align: left;
+}
+.nameAndLocationContainer h3{
+  margin: 0;
+  text-align: left;
+}

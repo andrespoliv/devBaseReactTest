@@ -1,0 +1,17 @@
+.user{
+  border:none;
+  background-color: dodgerblue;
+  width: 20vw;
+  height: 10vh;
+  margin-right: 1vw;
+  color: white;
+  font-weight: bold;
+  font-size: 0.7em;
+
+}
+
+.topFive{
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
